@@ -1,5 +1,5 @@
 # Fuzzy lazy python styleguide
-[Beautiful is better than ugly, Readability counts](https://www.python.org/dev/peps/pep-0020/) however it takes time and efforts to figure out best answers.  
+[Beautiful is better than ugly, Readability counts](https://www.python.org/dev/peps/pep-0020/). But it takes time and efforts to figure out best answers.  
 [We're standing on the shoulders of giants](https://github.com/trending/python), styling should be easy and fast.
 
 # IDE
