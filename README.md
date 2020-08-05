@@ -5,6 +5,10 @@
 # IDE
 We recommend [vscode](https://code.visualstudio.com/) for best community supports and latest features
 
+# Documented Rules
+
+We use linter to keep rules in mind however you can also check [one of best practice](https://google.github.io/styleguide/pyguide.html)
+
 # Linter
 
 **Use pylint.** Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
