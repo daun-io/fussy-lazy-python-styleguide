@@ -60,7 +60,7 @@ isort your_script.py && black your_script.py
 
 **Use [autodocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring).** autodocstring is a vscode extension to quickly generate docstrings for python functions. Among docstring formats that autodocstring supports, we recommend 'Google' format.
 
-# Efforts to cover more lazyness
+# Efforts to cover more laziness
 
 You can also check following toolings.
 
